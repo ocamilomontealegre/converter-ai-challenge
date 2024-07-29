@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <!-- Outer walls -->
+  <path d="M50,50 L550,50 L550,550 L50,550 Z" fill="none" stroke="black" stroke-width="5"/>
+  
+  <!-- Core with elevators -->
+  <rect x="250" y="250" width="100" height="100" fill="#D3D3D3" stroke="black" stroke-width="2"/>
+  <text x="275" y="280" font-family="Arial" font-size="14">Core</text>
+  
+  <!-- Elevators -->
+  <rect x="260" y="260" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="290" y="260" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="320" y="260" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="260" y="310" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="290" y="310" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  <rect x="320" y="310" width="20" height="30" fill="white" stroke="black" stroke-width="1"/>
+  
+  <!-- Office spaces -->
+  <rect x="60" y="60" width="180" height="230" fill="white" stroke="black" stroke-width="1"/>
+  <text x="100" y="175" font-family="Arial" font-size="14">Office Space A</text>
+  
+  <rect x="360" y="60" width="180" height="230" fill="white" stroke="black" stroke-width="1"/>
+  <text x="400" y="175" font-family="Arial" font-size="14">Office Space B</text>
+  
+  <rect x="60" y="310" width="180" height="230" fill="white" stroke="black" stroke-width="1"/>
+  <text x="100" y="425" font-family="Arial" font-size="14">Office Space C</text>
+  
+  <rect x="360" y="310" width="180" height="230" fill="white" stroke="black" stroke-width="1"/>
+  <text x="400" y="425" font-family="Arial" font-size="14">Office Space D</text>
+  
+  <!-- Meeting rooms -->
+  <rect x="60" y="60" width="90" height="70" fill="#E6E6FA" stroke="black" stroke-width="1"/>
+  <text x="70" y="95" font-family="Arial" font-size="12">Meeting Room 1</text>
+  
+  <rect x="450" y="60" width="90" height="70" fill="#E6E6FA" stroke="black" stroke-width="1"/>
+  <text x="460" y="95" font-family="Arial" font-size="12">Meeting Room 2</text>
+  
+  <!-- Restrooms -->
+  <rect x="250" y="60" width="50" height="70" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+  <text x="255" y="95" font-family="Arial" font-size="12">Restrooms</text>
+  
+  <rect x="300" y="60" width="50" height="70" fill="#FFB6C1" stroke="black" stroke-width="1"/>
+  <text x="305" y="95" font-family="Arial" font-size="12">Restrooms</text>
+  
+  <!-- Title -->
+  <text x="50" y="30" font-family="Arial" font-size="18" font-weight="bold">Williams Tower - Typical Floor Plan (Estimated)</text>
+</svg>
