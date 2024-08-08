@@ -11,7 +11,7 @@ To get started with the Converter AI Challenge, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/converter_ai_challenge.git
+   git clone https://github.com/ocamilomontealegre/converter_ai_challenge.git
 
 2. `npm install`
 
